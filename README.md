@@ -1,6 +1,5 @@
 # e-Commerce-Reviews-Text-Mining
-Project that uses a e-commerce website reviews to understand consumer behavior, predict whether a consumer will buy a product or not
-
+This project will showcase the actionable decisions that can be gleaned from customer reviews with respect to Warehousing solutions, Sales & Promotional offers, New User Webpage, Manufacturer’s Guidelines to be imposed and better Search Results for customers.
 ## Project Statement
 This is a dataset from an e-commerce website includes 23486 rows and 10 feature variables. Each row corresponds to a customer review, and includes the variables:
 Clothing ID: Integer Categorical variable that refers to the specific piece being reviewed.
